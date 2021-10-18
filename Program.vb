@@ -6,4 +6,7 @@ Module Program
         'comentario01
         'estoy en la rama jorge
     End Sub
+    Sub mostrar()
+        'muestro cosas
+    End Sub
 End Module
